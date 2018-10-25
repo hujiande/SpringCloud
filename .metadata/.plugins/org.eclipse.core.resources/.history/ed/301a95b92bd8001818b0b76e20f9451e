@@ -1,0 +1,11 @@
+spring: 
+  application: 
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: http://gitlab.yunee.com/hujiande/config-repo-demo.git
+          username: 
+server:
+  port: 1201

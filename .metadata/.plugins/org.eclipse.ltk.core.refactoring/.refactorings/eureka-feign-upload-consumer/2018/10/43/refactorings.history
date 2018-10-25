@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.springcloud.eureka.consumer.api.DcClient.java&apos; to &apos;UploadService.java&apos;&#x0D;&#x0A;- Original project: &apos;eureka-feign-upload-consumer&apos;&#x0D;&#x0A;- Original element: &apos;com.springcloud.eureka.consumer.api.DcClient.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.springcloud.eureka.consumer.api.UploadService.java&apos;" description="Rename compilation unit &apos;DcClient.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.springcloud.eureka.consumer.api{DcClient.java" name="UploadService.java" references="false" stamp="1540451232905" version="1.0"/>
+</session>

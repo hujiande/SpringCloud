@@ -1,0 +1,14 @@
+package com.springcloud.config.client;
+
+import javax.validation.Valid;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ConfigTest {
+	
+	@Value("{info.profile}")
+	private String info;
+
+}

@@ -1,0 +1,10 @@
+package com.springcloud.eureka.consumer.api;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient("eureka-client")
+public class DcClient {
+	@GetMapping("/dc")
+    String consumer();
+
+}

@@ -1,0 +1,5 @@
+package com.springcloud.config.client;
+
+public class ConfigTest {
+
+}

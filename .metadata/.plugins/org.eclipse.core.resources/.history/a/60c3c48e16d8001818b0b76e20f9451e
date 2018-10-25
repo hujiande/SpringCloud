@@ -1,0 +1,5 @@
+package com.springcloud.eureka.consumer;
+
+public class DcController {
+
+}

@@ -1,0 +1,10 @@
+package com.springcloud.eureka.consumer;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DcController {
+
+	
+	
+}
