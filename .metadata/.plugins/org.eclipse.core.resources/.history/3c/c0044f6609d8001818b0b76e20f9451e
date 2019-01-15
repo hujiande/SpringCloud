@@ -1,9 +1,0 @@
-package com.springcloud.eureka.client.controller;
-
-import org.springframework.stereotype.Controller;
-
-@Controller
-public class DcController {
-
-	
-}

@@ -1,5 +1,0 @@
-package com.springcloud.eureka.consumer.api;
-
-public class DcClient {
-
-}

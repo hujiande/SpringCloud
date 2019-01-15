@@ -1,3 +1,0 @@
-spring.application.name=eureka-server
-server.port=1001
-server.address=localhost

@@ -1,5 +1,0 @@
-package com.springcloud.eureka.client.controller;
-
-public class DcController {
-
-}
