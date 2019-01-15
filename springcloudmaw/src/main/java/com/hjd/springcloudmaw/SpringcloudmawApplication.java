@@ -12,5 +12,5 @@ public class SpringcloudmawApplication {
 		SpringApplication.run(SpringcloudmawApplication.class, args);
 	}
 
-}
+} 
 
